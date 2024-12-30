@@ -1,0 +1,196 @@
+layers:
+  Base:
+  - ESCAPE
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - \
+  - '='
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ''''
+  - LEFT GUI
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - ENTER
+  - {t: STARCRAFT, h: toggle}
+  - DELETE
+  - LALT
+  - LSHFT
+  - LCTRL
+  - SPACE
+  - BACKSPACE
+  - Raise
+  - RSHFT
+  - '['
+  - ']'
+  - ENTER
+  - RIGHT
+  - UP ARROW
+  - LEFT
+  - DOWN
+  Raise:
+  - '`'
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - INSERT
+  - BT NXT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - HOME
+  - PAGE DOWN
+  - PG UP
+  - END
+  - {t: ▽, type: trans}
+  - F11
+  - BT CLR
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - DOWN ARROW
+  - UP ARROW
+  - RIGHT ARROW
+  - {t: ▽, type: trans}
+  - F12
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - MUTE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ENTER
+  - RIGHT
+  - UP ARROW
+  - LEFT
+  - DOWN
+  STARCRAFT:
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - CAPS
+  - A
+  - S
+  - D
+  - F
+  - G
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ESCAPE
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: Base, h: toggle}
+  - DELETE
+  - LALT
+  - RCTRL
+  - LSHFT
+  - SPACE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ENTER
+  - RIGHT
+  - UP ARROW
+  - LEFT
+  - DOWN
