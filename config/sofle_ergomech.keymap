@@ -80,7 +80,7 @@
 &kp TAB     &kp Q       &kp W       &kp E      &kp R      &kp T                           &trans  &trans  &trans  &trans  &trans  &trans
 &kp CAPS    &kp A       &kp S       &kp D      &kp F      &kp G                           &trans  &trans  &trans  &trans  &trans  &trans
 &kp ESCAPE  &kp Z       &kp X       &kp C      &kp V      &kp B                           &trans  &trans  &trans  &trans  &trans  &trans
-&tog 0      &kp DELETE  &kp LALT    &kp RCTRL  &kp LSHFT  &kp SPACE                       &trans  &trans  &trans  &trans  &trans
+&trans      &kp DELETE  &kp LALT    &kp RCTRL  &kp LSHFT  &kp SPACE                       &trans  &trans  &trans  &trans  &trans
                                                     &kp ENTER  &kp RIGHT  &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
 
