@@ -25,16 +25,16 @@ layers:
   - P
   - \
   - '='
-  - A
-  - S
-  - D
-  - F
+  - {t: A, h: LGUI}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LSHFT}
+  - {t: F, h: LCTRL}
   - G
   - H
-  - J
-  - K
-  - L
-  - ;
+  - {t: J, h: RCTRL}
+  - {t: K, h: RSHFT}
+  - {t: L, h: RALT}
+  - {t: ;, h: RGUI}
   - ''''
   - LEFT GUI
   - Z
@@ -65,7 +65,7 @@ layers:
   - LEFT
   - DOWN
   Raise:
-  - '`'
+  - '~'
   - F1
   - F2
   - F3
@@ -76,31 +76,36 @@ layers:
   - F8
   - F9
   - F10
-  - INSERT
+  - F11
   - BT NXT
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
   - {t: ▽, type: trans}
   - HOME
   - PAGE DOWN
   - PG UP
   - END
   - {t: ▽, type: trans}
-  - F11
-  - BT CLR
+  - F12
+  - BT PRV
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '4'
+  - '5'
+  - '6'
   - {t: ▽, type: trans}
   - LEFT ARROW
   - DOWN ARROW
   - UP ARROW
   - RIGHT ARROW
   - {t: ▽, type: trans}
-  - F12
+  - '`'
+  - {t: ▽, type: trans}
+  - '0'
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -108,12 +113,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - MUTE
+  - BT CLR
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
