@@ -25,16 +25,16 @@ layers:
   - P
   - \
   - '='
-  - {t: A, h: LGUI}
-  - {t: S, h: LEFT ALT}
-  - {t: D, h: LSHFT}
-  - {t: F, h: LCTRL}
+  - A
+  - S
+  - D
+  - F
   - G
   - H
-  - {t: J, h: RCTRL}
-  - {t: K, h: RSHFT}
-  - {t: L, h: RALT}
-  - {t: ;, h: RGUI}
+  - J
+  - K
+  - L
+  - ;
   - ''''
   - LEFT GUI
   - Z
