@@ -76,15 +76,15 @@
             label = "Starcraft";
             display-name = "STARCRAFT";
             bindings = <
-&kp GRAVE   &kp N1      &kp N2      &kp N3     &kp N4     &kp N5                          &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE  &kp N1      &kp N2      &kp N3     &kp N4     &kp N5                          &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB     &kp Q       &kp W       &kp E      &kp R      &kp T                           &trans  &trans  &trans  &trans  &trans  &trans
 &kp CAPS    &kp A       &kp S       &kp D      &kp F      &kp G                           &trans  &trans  &trans  &trans  &trans  &trans
 &kp ESCAPE  &kp Z       &kp X       &kp C      &kp V      &kp B                           &trans  &trans  &trans  &trans  &trans  &trans
-&trans      &kp DELETE  &kp LALT    &kp RCTRL  &kp LSHFT  &kp SPACE                       &trans  &trans  &trans  &trans  &trans
+&trans      &kp DELETE  &kp LALT    &kp LALT   &kp LCTRL  &kp LSHFT                       &trans  &trans  &trans  &trans  &trans
                                                     &kp ENTER  &kp RIGHT  &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp LS(TAB) TAB>;
 
         };
     };
