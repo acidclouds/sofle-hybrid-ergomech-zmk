@@ -130,7 +130,7 @@ layers:
   - LEFT
   - DOWN
   STARCRAFT:
-  - '`'
+  - ESCAPE
   - '1'
   - '2'
   - '3'
@@ -181,9 +181,9 @@ layers:
   - {t: ▽, type: trans}
   - DELETE
   - LALT
-  - RCTRL
+  - LALT
+  - LCTRL
   - LSHFT
-  - SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
