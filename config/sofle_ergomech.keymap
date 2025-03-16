@@ -61,11 +61,11 @@
             //                |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&kp TILDE   &kp F1  &kp F2  &kp F3  &kp F4  &kp F5                                         &kp F6          &kp F7          &kp F8        &kp F9           &kp F10  &kp F11
-&bt BT_NXT  &trans  &kp N7  &kp N8  &kp N9  &trans                                         &kp HOME        &kp PAGE_DOWN   &kp PG_UP     &kp END          &trans   &kp F12
-&bt BT_PRV  &trans  &kp N4  &kp N5  &kp N6  &trans                                         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans   &kp GRAVE
-&trans      &kp N0  &kp N1  &kp N2  &kp N3  &trans                                         &trans          &trans          &trans        &trans           &trans   &trans
-&bt BT_CLR  &trans  &trans  &trans  &trans  &trans                                         &trans          &trans          &trans        &trans           &trans
+&kp TILDE   &kp F1  &kp F2  &kp F3  &kp F4  &kp F5                                         &kp F6          &kp F7          &kp F8        &kp F9               &kp F10               &kp F11
+&bt BT_NXT  &trans  &kp N7  &kp N8  &kp N9  &trans                                         &kp HOME        &kp PAGE_DOWN   &kp PG_UP     &kp END              &trans                &kp F12
+&bt BT_PRV  &trans  &kp N4  &kp N5  &kp N6  &trans                                         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW      &trans                &kp GRAVE
+&trans      &trans  &kp N1  &kp N2  &kp N3  &trans                                         &trans          &trans          &trans        &trans               &trans                &trans
+&bt BT_CLR  &trans  &trans  &trans  &trans  &kp N0                                         &trans          &trans          &trans        &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS
                                                     &kp ENTER  &kp RIGHT  &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
 
